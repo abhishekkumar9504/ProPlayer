@@ -52,3 +52,7 @@ The gallery below shows the current Pro Player build on a connected Android devi
 | Decoder / settings | Player UI | Device test |
 |---|---|---|
 | ![Decoder](docs/screenshots/Screenshot_20261027_220253.png) | ![Player UI](docs/screenshots/Screenshot_20261027_220315.png) | ![Device test](docs/screenshots/Screenshot_20261027_220333.png) |
+
+### Signed release APK
+
+The signed release build is available at [releases/ProPlayer-release.apk](releases/ProPlayer-release.apk).
