@@ -36,3 +36,7 @@ The original source code in this repository is licensed under Apache-2.0. Third-
 ## Attribution
 
 Built by Abhishek Kumar. Developed through independent Android engineering, testing, and reverse-engineering research of common media-player workflows.
+
+## APK download
+
+Download the debug APK from [releases/ProPlayer-debug.apk](releases/ProPlayer-debug.apk). This build is for testing and sideloading, not a signed Google Play release.
