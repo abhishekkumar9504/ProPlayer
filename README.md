@@ -43,11 +43,12 @@ Download the debug APK from [releases/ProPlayer-debug.apk](releases/ProPlayer-de
 
 ## Screenshots
 
-### Library
+The gallery below shows the current Pro Player build on a connected Android device.
 
-![Pro Player library](docs/screenshots/library.png)
+| Library | File picker | Playback | Controls |
+|---|---|---|---|
+| ![Library](docs/screenshots/Screenshot_20261027_215927.png) | ![File picker](docs/screenshots/Screenshot_20261027_220010.png) | ![Playback](docs/screenshots/Screenshot_20261027_220159.png) | ![Controls](docs/screenshots/Screenshot_20261027_220234.png) |
 
-### Open local video
-
-![Open local video](docs/screenshots/file-picker.png)
-
+| Decoder / settings | Player UI | Device test |
+|---|---|---|
+| ![Decoder](docs/screenshots/Screenshot_20261027_220253.png) | ![Player UI](docs/screenshots/Screenshot_20261027_220315.png) | ![Device test](docs/screenshots/Screenshot_20261027_220333.png) |
