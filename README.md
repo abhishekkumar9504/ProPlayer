@@ -40,3 +40,14 @@ Built by Abhishek Kumar. Developed through independent Android engineering, test
 ## APK download
 
 Download the debug APK from [releases/ProPlayer-debug.apk](releases/ProPlayer-debug.apk). This build is for testing and sideloading, not a signed Google Play release.
+
+## Screenshots
+
+### Library
+
+![Pro Player library](docs/screenshots/library.png)
+
+### Open local video
+
+![Open local video](docs/screenshots/file-picker.png)
+
